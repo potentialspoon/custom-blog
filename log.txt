@@ -1,0 +1,5 @@
+2026-04-08 15:10
+- project start
+- home page is hostable and viewable from local host
+- some project structure implemented
+
